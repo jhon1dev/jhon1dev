@@ -19,6 +19,6 @@
 ![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko](https://www.azquotes.com/picture-quotes/quote-you-can-never-have-an-impact-on-society-if-you-have-not-changed-yourself-nelson-mandela-53-5-0520.jpg))
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lea1dev&icon=3&color=10)](https://visitcount.itsvg.in)
+[![](https://www.azquotes.com/picture-quotes/quote-you-can-never-have-an-impact-on-society-if-you-have-not-changed-yourself-nelson-mandela-53-5-0520.jpg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
