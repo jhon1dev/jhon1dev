@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lea1dev&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Valores
+### 
 ![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko](https://www.azquotes.com/picture-quotes/quote-you-can-never-have-an-impact-on-society-if-you-have-not-changed-yourself-nelson-mandela-53-5-0520.jpg))
 
 ---
