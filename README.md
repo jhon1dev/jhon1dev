@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente aprimorando minhas skills em Java / gamedev<br>👯 Estou à procura de estágios na área e/ou afins<br>🤝 Estou desenvolvendo um jogo 3D na linguagem Lua Script <br>🌱 Estou aprendendo sobre pixel art 2D, ambientação e afins<br>⚡ Um fato sobre mim: Simples, porém dedicado ツ
+🔭 Atualmente aprimorando minhas skills em Java / gamedev<br>👯 Estou à procura de estágios na área e/ou afins<br>🎮 Estou desenvolvendo um jogo 3D na linguagem Lua Script <br>🌱 Estou aprendendo sobre pixel art 2D, ambientação e afins<br>⚡ Um fato sobre mim: Simples, porém dedicado ツ
 
 
 ## 🌐 Socials:
