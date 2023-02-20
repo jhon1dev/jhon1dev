@@ -1,5 +1,5 @@
 # 📖 Sobre mim:
-🔭 Atualmente aprimorando minhas skills em Java / gamedev<br>👯 Estou à procura de estágios na área de back-end junior<br>🎮 Estou desenvolvendo um jogo 3D na linguagem Lua Script <br>🌱 Estou aprendendo sobre pixel art 2D, ambientação e afins<br>⚡ Um fato sobre mim: Simples, porém dedicado ツ
+🔭 Game Developer <br>🎮 Arsenal de linguagens: Lua, Java, Python <br>🌱 Aprendendo sobre GameDesign<br>⚡ Um fato sobre mim: Simples, porém dedicado 💪
 
 
 ## 🌐 Redes:
