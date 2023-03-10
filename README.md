@@ -1,5 +1,5 @@
 # 📖 Sobre mim:
-🔭 Game Developer <br>🎮 Arsenal de linguagens: Lua, Java, Python <br>🌱 Aprendendo sobre GameDesign<br>⚡ Fato interessante: Simples, porém dedicado 💪
+🔭 Game Developer <br>🎮 Arsenal de linguagens: Lua, Java, Python, JavaScript <br>🌱 Aprendendo sobre GameDesign<br>
 
 
 ## 🌐 Redes:
