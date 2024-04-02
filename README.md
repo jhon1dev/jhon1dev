@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🔱 Linguagens: Lua, C#, JavaScript, Python.
+  🔱 Linguagens: Lua, C#, Python.
 </p>
 
 <p align="left">
