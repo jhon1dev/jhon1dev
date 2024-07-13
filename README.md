@@ -5,7 +5,8 @@
 </p>
 
 <p align="left">
-  🔱 Linguagens: Lua, C#, Python.
+  Linguagens Principais: Lua, C#.
+  Linguagem Secundárias: Python, Java, Javascript
 </p>
 
 <p align="left">
