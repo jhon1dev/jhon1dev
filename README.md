@@ -1,4 +1,4 @@
-<img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-ps4-clipart-playstation-game-console-illustration-cartoon-vector-png-image_6812485.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://cdn.leonardo.ai/users/6471d123-41f0-47a8-94d6-ef13b933be63/generations/9fc11eb5-8b75-456a-b782-91808f1c06b0/Default_Gamedev_wallpaper_image_including_only_1_big_playstati_3.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   😎 Entusiasta apaixonado pela indústria de jogos e líder nato, trazendo criatividade como Game Designer. Fascinado pela resolução de problemas, meu objetivo é impulsionar inovação e excelência em cada projeto. 🚀
